@@ -1,0 +1,198 @@
+{
+    '6': {
+        'DCID': '6',
+        'name': 'Atlanta',
+        'country': 'US',
+        'continent': 'North Amer
+ica',
+        'state': 'GA',
+        'ddos_protection': False,
+        'block_storage': False,
+        'regionco
+de': 'ATL'
+    },
+    '2': {
+        'DCID': '2',
+        'name': 'Chicago',
+        'country': 'US',
+        'continent': 'North America',
+        'state': 'IL',
+        'ddos_protection': True,
+        'block_storage': False,
+        'regioncode': 'ORD'
+    },
+    '3': {
+        'DCID': '3',
+        'name': 'Dallas',
+        'country': 'US',
+        'c
+ontinent': 'North America',
+        'state': 'TX',
+        'ddos_protection': True,
+        'block_stora
+ge': False,
+        'regioncode': 'DFW'
+    },
+    '5': {
+        'DCID': '5',
+        'name': 'Los Angeles',
+        'cou
+ntry': 'US',
+        'continent': 'North America',
+        'state': 'CA',
+        'ddos_protection': Tru
+        e,
+        'block_storage': False,
+        'regioncode': 'LAX'
+    },
+    '39': {
+        'DCID': '39',
+        'name': 'M
+iami',
+        'country': 'US',
+        'continent': 'North America',
+        'state': 'FL',
+        'ddos_prote
+ction': True,
+        'block_storage': False,
+        'regioncode': 'MIA'
+    },
+    '1': {
+        'DCID': '1',
+        '
+name': 'New Jersey',
+        'country': 'US',
+        'continent': 'North America',
+        'state': 'NJ
+',
+        'ddos_protection': True,
+        'block_storage': True,
+        'regioncode': 'EWR'
+    },
+    '4': {
+        '
+DCID': '4',
+        'name': 'Seattle',
+        'country': 'US',
+        'continent': 'North America',
+        's
+tate': 'WA',
+        'ddos_protection': True,
+        'block_storage': False,
+        'regioncode': 'SEA
+'
+    },
+    '12': {
+        'DCID': '12',
+        'name': 'Silicon Valley',
+        'country': 'US',
+        'continent': 'North America',
+        'state': 'CA',
+        'ddos_protection': True,
+        'block_storage': False,
+        'regioncode': 'SJC'
+    },
+    '40': {
+        'DCID': '40',
+        'name': 'Singapore',
+        'country': 'SG
+',
+        'continent': 'Asia',
+        'state': '',
+        'ddos_protection': False,
+        'block_storage': False,
+        'regioncode': 'SGP'
+    },
+    '7': {
+        'DCID': '7',
+        'name': 'Amsterdam',
+        'country': 'NL',
+        'continent': 'Europe',
+        'state': '',
+        'ddos_protection': True,
+        'block_storag
+e': False,
+        'regioncode': 'AMS'
+    },
+    '34': {
+        'DCID': '34',
+        'name': 'Seoul',
+        'country': 'KR',
+        'continent': 'Asia',
+        'state': '',
+        'ddos_protection': False,
+        'block_stora
+ge': False,
+        'regioncode': 'ICN'
+    },
+    '25': {
+        'DCID': '25',
+        'name': 'Tokyo',
+        'country
+': 'JP',
+        'continent': 'Asia',
+        'state': '',
+        'ddos_protection': False,
+        'block_stor
+age': False,
+        'regioncode': 'NRT'
+    },
+    '8': {
+        'DCID': '8',
+        'name': 'London',
+        'country
+': 'GB',
+        'continent': 'Europe',
+        'state': '',
+        'ddos_protection': True,
+        'block_sto
+rage': False,
+        'regioncode': 'LHR'
+    },
+    '24': {
+        'DCID': '24',
+        'name': 'Paris',
+        'count
+ry': 'FR',
+        'continent': 'Europe',
+        'state': '',
+        'ddos_protection': True,
+        'block_s
+torage': False,
+        'regioncode': 'CDG'
+    },
+    '9': {
+        'DCID': '9',
+        'name': 'Frankfurt',
+        'c
+ountry': 'DE',
+        'continent': 'Europe',
+        'state': '',
+        'ddos_protection': True,
+        'blo
+ck_storage': False,
+        'regioncode': 'FRA'
+    },
+    '22': {
+        'DCID': '22',
+        'name': 'Toronto',
+        'country': 'CA',
+        'continent': 'North America',
+        'state': '',
+        'ddos_protection': False,
+        'block_storage': False,
+        'regioncode': 'YTO'
+    },
+    '19': {
+        'DCID': '19',
+        'name
+': 'Sydney',
+        'country': 'AU',
+        'continent': 'Australia',
+        'state': '',
+        'ddos_prote
+ction': False,
+        'block_storage': False,
+        'regioncode': 'SYD'
+    }
+}
