@@ -1,0 +1,6 @@
+jsonpath
+vultr
+JsonSchema
+termcolor
+click
+requests
