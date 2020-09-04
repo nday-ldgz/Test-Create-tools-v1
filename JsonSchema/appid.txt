@@ -1,0 +1,254 @@
+{
+    '1': {
+        'APPID': '1',
+        'name': 'LEMP',
+        'short_name': 'lemp',
+        'deploy_name': 'LEMP
+on CentOS 6 x64',
+        'surcharge': 0
+    },
+    '39': {
+        'APPID': '39',
+        'name': 'LEMP',
+        'short_
+name': 'lemp',
+        'deploy_name': 'LEMP on CentOS 7 x64',
+        'surcharge': 0
+    },
+    '40': {
+        'A
+PPID': '40',
+        'name': 'LEMP',
+        'short_name': 'lemp',
+        'deploy_name': 'LEMP on Ubunt
+u 18.04 x64',
+        'surcharge': 0
+    },
+    '2': {
+        'APPID': '2',
+        'name': 'WordPress',
+        'short_n
+ame': 'wordpress',
+        'deploy_name': 'WordPress on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '3': {
+        'APPID': '3',
+        'name': 'Minecraft',
+        'short_name': 'minecraft',
+        'deploy_
+name': 'Minecraft on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '4': {
+        'APPID': '4',
+        'na
+me': 'Webmin',
+        'short_name': 'webmin',
+        'deploy_name': 'Webmin on CentOS 6 x64',
+        'surcharge': 0
+    },
+    '43': {
+        'APPID': '43',
+        'name': 'Webmin',
+        'short_name': 'webmin',
+        'deploy_name': 'Webmin on CentOS 7 x64',
+        'surcharge': 0
+    },
+    '44': {
+        'APPID': '44',
+        'name': 'Webmin',
+        'short_name': 'webmin',
+        'deploy_name': 'Webmin on Ubuntu 18.0
+4 x64',
+        'surcharge': 0
+    },
+    '5': {
+        'APPID': '5',
+        'name': 'ownCloud',
+        'short_name': '
+owncloud',
+        'deploy_name': 'ownCloud on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '6': {
+        'APPID': '6',
+        'name': 'OpenVPN',
+        'short_name': 'openvpn',
+        'deploy_name': 'OpenV
+PN on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '38': {
+        'APPID': '38',
+        'name': 'cPanel',
+        'short_name': 'cpanel',
+        'deploy_name': 'cPanel on CentOS 7 x64',
+        'surcharge': 0
+    },
+    '15': {
+        'APPID': '15',
+        'name': 'Drupal',
+        'short_name': 'drupal',
+        'deploy_name
+': 'Drupal on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '17': {
+        'APPID': '17',
+        'name': 'Docker',
+        'short_name': 'docker',
+        'deploy_name': 'Docker on CentOS 7 x64',
+        'surc
+harge': 0
+    },
+    '37': {
+        'APPID': '37',
+        'name': 'Docker',
+        'short_name': 'docker',
+        'dep
+loy_name': 'Docker on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '19': {
+        'APPID': '19',
+        'name': 'LAMP',
+        'short_name': 'lamp',
+        'deploy_name': 'LAMP on CentOS 6 x64',
+        'su
+rcharge': 0
+    },
+    '41': {
+        'APPID': '41',
+        'name': 'LAMP',
+        'short_name': 'lamp',
+        'deplo
+y_name': 'LAMP on CentOS 7 x64',
+        'surcharge': 0
+    },
+    '42': {
+        'APPID': '42',
+        'name': 'LAMP',
+        'short_name': 'lamp',
+        'deploy_name': 'LAMP on Ubuntu 18.04 x64',
+        'surcha
+rge': 0
+    },
+    '21': {
+        'APPID': '21',
+        'name': 'Joomla',
+        'short_name': 'joomla',
+        'deplo
+y_name': 'Joomla on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '23': {
+        'APPID': '23',
+        'n
+ame': 'Mediawiki',
+        'short_name': 'mediawiki',
+        'deploy_name': 'Mediawiki on Ubunt
+u 18.04 x64',
+        'surcharge': 0
+    },
+    '25': {
+        'APPID': '25',
+        'name': 'PrestaShop',
+        'shor
+t_name': 'prestashop',
+        'deploy_name': 'PrestaShop on Ubuntu 18.04 x64',
+        'surchar
+ge': 0
+    },
+    '27': {
+        'APPID': '27',
+        'name': 'Nextcloud',
+        'short_name': 'nextcloud',
+        '
+deploy_name': 'Nextcloud on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '29': {
+        'APPID': '29',
+        'name': 'GitLab',
+        'short_name': 'gitlab',
+        'deploy_name': 'GitLab on Ubuntu
+ 18.04 x64',
+        'surcharge': 0
+    },
+    '31': {
+        'APPID': '31',
+        'name': 'Plesk (Web Admin SE
+)',
+        'short_name': 'plesk_webadmin',
+        'deploy_name': 'Plesk (Web Admin SE) on Ubun
+tu 18.04 x64',
+        'surcharge': 0
+    },
+    '35': {
+        'APPID': '35',
+        'name': 'Plesk (Web Pro)',
+        'short_name': 'plesk_webpro',
+        'deploy_name': 'Plesk (Web Pro) on Ubuntu 18.04 x
+64',
+        'surcharge': 0
+    },
+    '36': {
+        'APPID': '36',
+        'name': 'Plesk (Web Host)',
+        'short_n
+ame': 'plesk_webhost',
+        'deploy_name': 'Plesk (Web Host) on Ubuntu 18.04 x64',
+        's
+urcharge': 0
+    },
+    '33': {
+        'APPID': '33',
+        'name': 'Magento',
+        'short_name': 'magento',
+        'deploy_name': 'Magento on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '45': {
+        'APPID': '45',
+        'name': 'OpenLiteSpeed',
+        'short_name': 'openlitespeed',
+        'deploy_name': 'Op
+enLiteSpeed on CentOS 7 x64',
+        'surcharge': 0
+    },
+    '46': {
+        'APPID': '46',
+        'name': 'Op
+enLiteSpeed',
+        'short_name': 'openlitespeed',
+        'deploy_name': 'OpenLiteSpeed on Ub
+untu 18.04 x64',
+        'surcharge': 0
+    },
+    '47': {
+        'APPID': '47',
+        'name': 'Jitsi',
+        'short_
+name': 'jitsi',
+        'deploy_name': 'Jitsi on Ubuntu 18.04 x64',
+        'surcharge': 0
+    },
+    '49
+': {
+        'APPID': '49',
+        'name': 'CentOS Web Panel',
+        'short_name': 'centos-webpanel',
+        'deploy_name': 'CentOS Web Panel on CentOS 7 x64',
+        'surcharge': 0
+    },
+    '50': {
+        'APPI
+D': '50',
+        'name': 'Pritunl',
+        'short_name': 'pritunl',
+        'deploy_name': 'Pritunl on
+ Ubuntu 18.04 x64',
+        'surcharge': 0
+    }
+}
